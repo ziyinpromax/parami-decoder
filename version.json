@@ -1,7 +1,7 @@
 {
   "package": "com.parami.decoder",
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.2/ParamiDecoder.apk",
-  "notes": "Flash Decoder: new name + neon logo, SSH field breakdown, manual in-app update check"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.3/ParamiDecoder.apk",
+  "notes": "Flash Decoder: zivpn:// decode (XML profile + field breakdown) on top of 1.2"
 }
