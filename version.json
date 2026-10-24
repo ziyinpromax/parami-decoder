@@ -1,7 +1,7 @@
 {
   "package": "com.parami.decoder",
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.4/ParamiDecoder.apk",
-  "notes": "Flash Decoder: scroll fix + neat UI + animations (result fade/slide-in, smooth scroll, button pulse)"
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.5/ParamiDecoder.apk",
+  "notes": "Flash Decoder: curated ZIVPN breakdown (Type header + essential keys + Burmese hints, noise hidden, XML kept)"
 }
