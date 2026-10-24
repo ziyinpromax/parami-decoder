@@ -1,7 +1,7 @@
 {
   "package": "com.parami.decoder",
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.6/ParamiDecoder.apk",
-  "notes": "Flash Decoder: exact destination-field hints (UDP) + stacked breakdown rows"
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.7/ParamiDecoder.apk",
+  "notes": "Flash Decoder: two sections - LOCK Key entry + decoded history"
 }
