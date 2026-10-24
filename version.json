@@ -1,7 +1,7 @@
 {
   "package": "com.parami.decoder",
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.8/ParamiDecoder.apk",
-  "notes": "Flash Decoder: preview-style UI + SSH Extra decoder (payload/SNI shown clearly)"
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.9/ParamiDecoder.apk",
+  "notes": "Flash Decoder: deeper Extra decoding (recursive/gzip/strings) + Clear-all on top"
 }
