@@ -1,7 +1,7 @@
 {
   "package": "com.parami.decoder",
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.10/ParamiDecoder.apk",
-  "notes": "Flash Decoder: File import (lock links in files, raw blobs, standard configs) + raw-deflate SSH Extra; locked .dark/.ehi/.hc honestly not yet supported"
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.11/ParamiDecoder.apk",
+  "notes": "Flash Decoder: DarkTunnel support (darktunnel:// links + .dark files, two-layer AES-CFB + msgpack, gates as notes); .ehi/.hc still honestly not yet supported"
 }
