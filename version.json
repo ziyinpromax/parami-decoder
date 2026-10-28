@@ -1,7 +1,7 @@
 {
   "package": "com.parami.decoder",
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.11/ParamiDecoder.apk",
-  "notes": "Flash Decoder: DarkTunnel support (darktunnel:// links + .dark files, two-layer AES-CFB + msgpack, gates as notes); .ehi/.hc still honestly not yet supported"
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.12/ParamiDecoder.apk",
+  "notes": "Flash Decoder: QR import (QR image pick + live camera scan via ZXing core, nm/zivpn/darktunnel/standard links); .ehi/.hc still honestly not yet supported"
 }
