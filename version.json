@@ -1,7 +1,7 @@
 {
   "package": "com.parami.decoder",
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.13/ParamiDecoder.apk",
-  "notes": "Flash Decoder: QR poster fix (native-res + 2x upscale + 3x3 tiles + upper-third crops, dense QR); .ehi/.hc still honestly not yet supported"
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apkUrl": "https://github.com/ziyinpromax/parami-decoder/releases/download/v1.14/ParamiDecoder.apk",
+  "notes": "Flash Decoder: NetMod SSH Extra -> Payload (second AES-ECB layer, same keys); Payload headline row + pType/proxies/security/SNI/rr, per-row Copy; .ehi/.hc still honestly not yet supported"
 }
